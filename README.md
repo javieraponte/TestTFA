@@ -1,6 +1,6 @@
 # TestTFA
 
-I had the problem that my IDE does not upload projects since I had the TFA active.
+I had the problem that my IDE doesn't upload projects since I had the TFA active.
 
 This is the solution without deactivating the TFA:
 
